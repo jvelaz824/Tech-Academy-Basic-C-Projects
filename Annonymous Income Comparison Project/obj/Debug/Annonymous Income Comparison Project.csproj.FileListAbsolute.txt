@@ -1,0 +1,7 @@
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Annonymous Income Comparison Project\obj\Debug\Annonymous Income Comparison Project.csproj.AssemblyReference.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Annonymous Income Comparison Project\obj\Debug\Annonymous Income Comparison Project.csproj.CoreCompileInputs.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Annonymous Income Comparison Project\bin\Debug\Annonymous Income Comparison Project.exe.config
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Annonymous Income Comparison Project\bin\Debug\Annonymous Income Comparison Project.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Annonymous Income Comparison Project\bin\Debug\Annonymous Income Comparison Project.pdb
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Annonymous Income Comparison Project\obj\Debug\Annonymous Income Comparison Project.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Annonymous Income Comparison Project\obj\Debug\Annonymous Income Comparison Project.pdb
