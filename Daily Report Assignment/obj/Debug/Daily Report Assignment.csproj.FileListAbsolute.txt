@@ -1,0 +1,7 @@
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Daily Report Assignment\bin\Debug\Daily Report Assignment.exe.config
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Daily Report Assignment\bin\Debug\Daily Report Assignment.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Daily Report Assignment\bin\Debug\Daily Report Assignment.pdb
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Daily Report Assignment\obj\Debug\Daily Report Assignment.csproj.AssemblyReference.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Daily Report Assignment\obj\Debug\Daily Report Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Daily Report Assignment\obj\Debug\Daily Report Assignment.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Daily Report Assignment\obj\Debug\Daily Report Assignment.pdb

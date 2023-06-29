@@ -1,0 +1,7 @@
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\ConsoleApplicationAssignment\bin\Debug\ConsoleApplicationAssignment.exe.config
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\ConsoleApplicationAssignment\bin\Debug\ConsoleApplicationAssignment.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\ConsoleApplicationAssignment\bin\Debug\ConsoleApplicationAssignment.pdb
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\ConsoleApplicationAssignment\obj\Debug\ConsoleApplicationAssignment.csproj.AssemblyReference.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\ConsoleApplicationAssignment\obj\Debug\ConsoleApplicationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\ConsoleApplicationAssignment\obj\Debug\ConsoleApplicationAssignment.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\ConsoleApplicationAssignment\obj\Debug\ConsoleApplicationAssignment.pdb
