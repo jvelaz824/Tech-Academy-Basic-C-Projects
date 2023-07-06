@@ -16,7 +16,7 @@ class Program
 
         /*    The following will error if a user enters a zero, or non int value
             
-        //Asking the user to enter a number tp divide the numbers in the list by
+        //Asking the user to enter a number to divide the numbers in the list by
         Console.WriteLine("Please enter a non zero number to divide numbers in a list by");
         int numInput = Convert.ToInt32(Console.ReadLine());
 
@@ -27,13 +27,14 @@ class Program
         }
         */
 
-        //Asking the user to enter a number tp divide the numbers in the list by
-        Console.WriteLine("Please enter a number to divide each number in a list by.");
-        int numInput = Convert.ToInt32(Console.ReadLine());
+        
 
         //initiates try/catch block
         try
-        {
+        {   
+            //Asking the user to enter a number to divide the numbers in the list by
+            Console.WriteLine("Please enter a number to divide each number in a list by.");
+            int numInput = Convert.ToInt32(Console.ReadLine());
             foreach (int num in numbers)
             {
                 int result = num / numInput;
