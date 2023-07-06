@@ -1,0 +1,7 @@
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Iterating Through an Array Assignment\bin\Debug\Iterating Through an Array Assignment.exe.config
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Iterating Through an Array Assignment\bin\Debug\Iterating Through an Array Assignment.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Iterating Through an Array Assignment\bin\Debug\Iterating Through an Array Assignment.pdb
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Iterating Through an Array Assignment\obj\Debug\Iterating Through an Array Assignment.csproj.AssemblyReference.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Iterating Through an Array Assignment\obj\Debug\Iterating Through an Array Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Iterating Through an Array Assignment\obj\Debug\Iterating Through an Array Assignment.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Iterating Through an Array Assignment\obj\Debug\Iterating Through an Array Assignment.pdb
