@@ -1,0 +1,6 @@
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Exception Handling Assignment\bin\Debug\Exception Handling Assignment.exe.config
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Exception Handling Assignment\bin\Debug\Exception Handling Assignment.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Exception Handling Assignment\bin\Debug\Exception Handling Assignment.pdb
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Exception Handling Assignment\obj\Debug\Exception Handling Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Exception Handling Assignment\obj\Debug\Exception Handling Assignment.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Exception Handling Assignment\obj\Debug\Exception Handling Assignment.pdb
