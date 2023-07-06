@@ -128,19 +128,23 @@ class Program
 
         //Assignment Part 6
 
-        //intiailizing a list of strings
+        //intiailizing a list of strings with a duplicate
         List<string> movieGenres = new List<string>() { "Action", "Thriller", "Comedy", "Drama", "Romance", "Horror", "Comedy" };
 
-        foreach(string movie in movieGenres)
+        //creating a second empty list, which will be used to compare the values already passed through on the first list
+        List<string> movieGenres2 = new List<string>();
+
+        foreach (string movie in movieGenres)
         {
-            if (movieGenres.IndexOf(movie) != movieGenres.LastIndexOf(movie)) //compares the indec of each item to every other item in the list to identify any duplicates
+            if (movieGenres2.Contains(movie)) //checks if the second list has the current item that the loop is on 
             {
-                Console.WriteLine(movie + " - This item is a duplicate");
+                Console.WriteLine(movie + " - This item is a duplicate"); //if it does, displays a duplicate method
             }
             else
             {
-                Console.WriteLine(movie + " - This item is unique");
+                Console.WriteLine(movie + " - This item is unique"); //if it does not, displays a unique message
             }
+            movieGenres2.Add(movie); //adds the current item to the second list, so that it can be used to check for duplicates in future iterations
         }
 
 
