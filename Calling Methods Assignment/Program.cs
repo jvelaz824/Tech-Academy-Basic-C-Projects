@@ -23,8 +23,15 @@ namespace Calling_Methods_Assignment
             //calls MultiplyBy5 method and outputs the result
             Console.WriteLine(num + " multiplied by 5 equals: " + results.MultiplyBy5(num));
 
-            //calls OddOrEven method and outputs the result
-            Console.WriteLine(results.OddOrEven(num));
+            //calls OddOrEven method and outputs the result, along with a message explaining if the result means the number is odd or even
+            if (results.OddOrEven(num) == 0) //if x % 2 is equal to 0, it is even, so assign a string saying so to 'result'
+            {
+                Console.WriteLine("The remainder of " + num + " divided by 2 is: " + results.OddOrEven(num) + ", making it even.");
+            }
+            else //Else, it is odd, so assign a string saying so to 'result'
+            {
+                Console.WriteLine("The remainder of " + num + " divided by 2 is: " + results.OddOrEven(num) + ", making it odd.");
+            }
 
             Console.Read();
         }
