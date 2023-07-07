@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calling Methods Assignment", "Calling Methods Assignment.csproj", "{329B906B-B911-4479-97A7-5262FDAE4E7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329B906B-B911-4479-97A7-5262FDAE4E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329B906B-B911-4479-97A7-5262FDAE4E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329B906B-B911-4479-97A7-5262FDAE4E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329B906B-B911-4479-97A7-5262FDAE4E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8761FB0C-9A39-4C9A-845E-F7594A3B8FC8}
+	EndGlobalSection
+EndGlobal
