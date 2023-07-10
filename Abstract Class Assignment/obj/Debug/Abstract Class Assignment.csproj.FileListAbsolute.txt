@@ -1,0 +1,7 @@
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Abstract Class Assignment\bin\Debug\Abstract Class Assignment.exe.config
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Abstract Class Assignment\bin\Debug\Abstract Class Assignment.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Abstract Class Assignment\bin\Debug\Abstract Class Assignment.pdb
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Abstract Class Assignment\obj\Debug\Abstract Class Assignment.csproj.AssemblyReference.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Abstract Class Assignment\obj\Debug\Abstract Class Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Abstract Class Assignment\obj\Debug\Abstract Class Assignment.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Abstract Class Assignment\obj\Debug\Abstract Class Assignment.pdb
