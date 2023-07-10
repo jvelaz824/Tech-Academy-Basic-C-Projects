@@ -1,0 +1,7 @@
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Operators Assignment\bin\Debug\Operators Assignment.exe.config
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Operators Assignment\bin\Debug\Operators Assignment.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Operators Assignment\bin\Debug\Operators Assignment.pdb
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Operators Assignment\obj\Debug\Operators Assignment.csproj.AssemblyReference.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Operators Assignment\obj\Debug\Operators Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Operators Assignment\obj\Debug\Operators Assignment.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Operators Assignment\obj\Debug\Operators Assignment.pdb
