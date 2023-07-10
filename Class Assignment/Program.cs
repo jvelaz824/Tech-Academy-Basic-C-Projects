@@ -10,7 +10,7 @@ namespace Class_Assignment
     {
         static void Main(string[] args)
         {
-            Math2 test = new Math2();
+            Math2 test = new Math2(); //instantiates object of the 'Math2' class
             Console.WriteLine("Please enter a number."); //prompts the user to enter a number
             int num = Convert.ToInt32(Console.ReadLine()); //converts the user input to integer and assigns it to an integer variable
 
