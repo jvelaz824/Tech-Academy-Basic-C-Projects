@@ -1,0 +1,7 @@
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Parsing Enums Assignment\bin\Debug\Parsing Enums Assignment.exe.config
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Parsing Enums Assignment\bin\Debug\Parsing Enums Assignment.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Parsing Enums Assignment\bin\Debug\Parsing Enums Assignment.pdb
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.csproj.AssemblyReference.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.pdb
