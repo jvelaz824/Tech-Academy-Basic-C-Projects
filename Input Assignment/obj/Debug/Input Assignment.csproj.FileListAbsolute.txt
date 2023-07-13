@@ -1,0 +1,7 @@
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Input Assignment\bin\Debug\Input Assignment.exe.config
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Input Assignment\bin\Debug\Input Assignment.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Input Assignment\bin\Debug\Input Assignment.pdb
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Input Assignment\obj\Debug\Input Assignment.csproj.AssemblyReference.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Input Assignment\obj\Debug\Input Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Input Assignment\obj\Debug\Input Assignment.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Input Assignment\obj\Debug\Input Assignment.pdb
