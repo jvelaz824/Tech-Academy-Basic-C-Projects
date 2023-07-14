@@ -10,7 +10,7 @@ namespace Constructor_Assignment
     {
         static void Main(string[] args)
         {
-            //Creates a new ibject of the 'Circle' class
+            //Creates a new object of the 'Circle' class - setting 55 to its radius 
             Circle newCircle = new Circle(55);
 
             //Declares a const double variable that holds the value of pi 
