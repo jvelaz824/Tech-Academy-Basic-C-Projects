@@ -1,0 +1,6 @@
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\TryCatch Assignment\bin\Debug\TryCatch Assignment.exe.config
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\TryCatch Assignment\bin\Debug\TryCatch Assignment.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\TryCatch Assignment\bin\Debug\TryCatch Assignment.pdb
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\TryCatch Assignment\obj\Debug\TryCatch Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\TryCatch Assignment\obj\Debug\TryCatch Assignment.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\TryCatch Assignment\obj\Debug\TryCatch Assignment.pdb
