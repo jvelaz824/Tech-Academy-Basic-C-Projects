@@ -4,30 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOneGame
+namespace Classes_and_Objects
 {
-    public struct Card
+    public class Card
     {
-
-        public Suit Suit { get; set; } //creates a Suit property
-        public Face Face { get; set; } //creates a Face property
-
-        public override string ToString() //prints out the cards value
+        public Card() //this is a constructor aka function. Needs to be the name of the class. These are default values if none are assigned later
         {
-            return string.Format("{0} of {1}", Face, Suit);
+            Suit = "Spades";
+            Face = "True";
         }
+        public string Suit { get; set; } //creates the property and degines what functions you can do with it
+        public string Face { get; set; }
 
-    }
-
-    public enum Suit
-    {
-        Clubs,
-        Diamonds,
-        Hearts,
-        Spades
-    }
-    public enum Face
-    {
-        Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Jack, Queen, King, Ace
     }
 }

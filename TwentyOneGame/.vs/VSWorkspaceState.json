@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\bin"
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\TempPE"
   ],
   "PreviewInSolutionExplorer": false
 }

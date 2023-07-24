@@ -4,28 +4,32 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOneGame
+namespace Classes_and_Objects
 {
     public class Deck
     {
-
         public Deck()
         {
             Cards = new List<Card>();
-            
-            for (int i = 0; i < 13; i++)
+            List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
+            List<string> Faces = new List<string>() {
+                "Two", "Three", "Four", "Five", "Six", "Seven", "Eight",
+                "Nine", "Ten", "Jack", "Queen", "King", "Ace"
+            };
+
+            foreach (string face in Faces)
             {
-                for(int j = 0; j< 4; j++)
+
+                foreach (string suit in Suits)
                 {
                     Card card = new Card();
-                    card.Face = (Face)i; //assigns the card a face based on the value of i
-                    card.Suit = (Suit)j; //assigns the card a suit based on the value of j
+                    card.Suit = suit;
+                    card.Face = face;
                     Cards.Add(card);
                 }
             }
 
         }
-
         public List<Card> Cards { get; set; }
 
         public void Shuffle(int times = 1) // times = 1 makes the second paramater optional (meanining it does not have to be included), if it is not, it will just default to 1
@@ -45,8 +49,7 @@ namespace TwentyOneGame
                 Cards = TempList;
 
             }
-
+            
         }
-
     }
 }

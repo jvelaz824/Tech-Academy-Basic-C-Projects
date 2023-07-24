@@ -1,0 +1,3 @@
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\TwentyOneGame\obj\Debug\TwentyOneGame.csproj.AssemblyReference.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\TwentyOneGame\obj\Debug\TwentyOneGame.csproj.CoreCompileInputs.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\TwentyOneGame\obj\Debug\TwentyOneGame.csproj.SuggestedBindingRedirects.cache

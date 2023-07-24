@@ -1,29 +1,24 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOneGame
+namespace Classes_and_Objects
 {
-    public abstract class Game
+    public class Game
     {
-        private List<Player> _players = new List<Player>(); // allows players to always be instantiated as an empty list so it does not throw an error
-        private Dictionary<Player, int> _bets = new Dictionary<Player, int>();
-        public List<Player> Players { get { return _players; } set { _players = value; } }
+        public List<string> Players { get; set; }
         public string Name { get; set; }
-        public Dictionary<Player, int> Bets { get { return _bets; } set { _bets = value; } } //creating a dictionary of players and their bets
-       
+        public string Dealer { get; set; }
 
-        public abstract void Play(); //abstract method contains no implmentation 
-
-
-        public virtual void ListPlayers()
+        public void ListPlayers()
         {
-            foreach (Player player in Players)
+            foreach (string player in Players)
             {
-                Console.WriteLine(player.Name);
+                Console.WriteLine(player);
             }
         }
+
     }
 }
