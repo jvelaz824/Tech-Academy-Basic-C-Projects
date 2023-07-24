@@ -1,0 +1,6 @@
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Twenty One Game\Casino\bin\Debug\Casino.dll
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Twenty One Game\Casino\bin\Debug\Casino.pdb
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Twenty One Game\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Twenty One Game\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Twenty One Game\Casino\obj\Debug\Casino.dll
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Twenty One Game\Casino\obj\Debug\Casino.pdb

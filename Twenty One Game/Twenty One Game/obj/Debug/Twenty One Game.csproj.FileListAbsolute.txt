@@ -1,0 +1,11 @@
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Twenty One Game\Twenty One Game\bin\Debug\Twenty One Game.exe.config
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Twenty One Game\Twenty One Game\bin\Debug\Twenty One Game.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Twenty One Game\Twenty One Game\bin\Debug\Twenty One Game.pdb
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Twenty One Game\Twenty One Game\bin\Debug\Casino.dll
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Twenty One Game\Twenty One Game\bin\Debug\Casino.pdb
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Twenty One Game\Twenty One Game\obj\Debug\Twenty One Game.csproj.AssemblyReference.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Twenty One Game\Twenty One Game\obj\Debug\Twenty One Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Twenty One Game\Twenty One Game\obj\Debug\Twenty One Game.csproj.CoreCompileInputs.cache
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Twenty One Game\Twenty One Game\obj\Debug\Twenty One Game.csproj.CopyComplete
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Twenty One Game\Twenty One Game\obj\Debug\Twenty One Game.exe
+C:\Users\jocelynv\source\repos\jvelaz824\Tech-Academy-Basic-C-Projects\Twenty One Game\Twenty One Game\obj\Debug\Twenty One Game.pdb
